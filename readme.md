@@ -1,4 +1,4 @@
-# This is a final project in a course of Scripting Languages
+# This is the final project in a course on Scripting Languages
 
 ## Name of the project: Travel Company Platform
 
